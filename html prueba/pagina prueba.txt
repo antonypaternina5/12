@@ -1,0 +1,26 @@
+<html>
+<head>
+
+<title>  mi emprendimiento </title>
+
+</head>
+
+<body> 
+
+<h1> la suprema - salsamentaria </h1>
+
+<h1>Con los precios mas bajos y a la mejor calidad</h1>  
+
+
+<h1> ofrecemos: Desechables, salsas, carnes frias, queso, pollo, huevos </h1>
+
+
+<h1> "la cocina es alquimia de amor" <h1> 
+
+
+<img src="foto prueba"/ >
+
+
+</body>
+
+</html>
